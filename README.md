@@ -1,0 +1,1 @@
+To launch this project first of all you need to go to the telegram and create a bot using the communication with @BotFather. You will receive a token which then should be saved in your gradle.properties file. the bot can be started through Windows Terminal using command python bot.py while being in the directory of the project
